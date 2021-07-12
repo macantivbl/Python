@@ -1,0 +1,5 @@
+pip install "nombre paquete"
+ejemplo -> pip install pyjokes
+
+versiones de entorno
+pipenv ("instala las versiones que se nececita")
